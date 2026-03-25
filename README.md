@@ -30,6 +30,10 @@ pip install -r requirements.txt
 
 ## Configuration
 
+Add the following to your Claude Desktop config file:
+- **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
+
 ### Single database
 
 ```json
